@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\jquinones\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\jquinones\\.nuget\\packages"
-    ]
-  }
-}
