@@ -3,3 +3,5 @@
 .vscode
 /vscode
 .vs
+/VehiclesAPI/bin/Debug/netcoreapp3.1
+/VehiclesAPI/obj
